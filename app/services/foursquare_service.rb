@@ -14,5 +14,9 @@ class FoursquareService
 
   end
 
+  def friends
+
+  end
+
 
 end
