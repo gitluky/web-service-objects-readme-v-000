@@ -15,4 +15,4 @@ class FoursquareService
   end
 
 
-end 
+end
